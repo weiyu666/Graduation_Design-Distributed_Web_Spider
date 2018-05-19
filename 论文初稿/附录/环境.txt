@@ -1,0 +1,4 @@
+开发语言：Python2.7
+开发环境：64位Windows10专业版系统，8G内存，i5-4200H处理器 三星 EVO 120G SSD。
+数据库：MongoDB 3.4.0
+NOSQL :redis 3.0.5 

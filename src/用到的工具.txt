@@ -1,0 +1,11 @@
+Google Chrome浏览器
+Pycharm   (IDE)
+数据库  mongodb  
+mongobooster   数据库客户端
+Redis   
+RedisStudio-en-0.1.5  客户端
+Scrapy 框架
+python2.7
+proxy IP  代理的IP地址
+
+
